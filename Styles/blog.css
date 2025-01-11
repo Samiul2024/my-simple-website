@@ -6,3 +6,17 @@ div{
 .increment{
     background-color: darkcyan;
 }
+header{
+    background-image: url(../images/p3.jpg);
+    height: 400px;
+    margin: 0px;
+}
+body{
+    margin: -50px;
+    /* margin-top: 0px; */
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: darkmagenta;
+}
